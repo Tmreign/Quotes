@@ -21,3 +21,4 @@ Angular  Html, css, bootstrap  and  github
 slack@tom
 
 ## License
+MIT license. All rights reserved Copyright (c) {2019} {Tom Reign}
